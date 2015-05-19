@@ -2,6 +2,7 @@ syntax match goNiceOperator "<-" conceal cchar=←
 syntax match goNiceOperator "->" conceal cchar=→
 syntax match goNiceOperator "<=\ze[^<]" conceal cchar=≤
 syntax match goNiceOperator ">=\ze[^>]" conceal cchar=≥
+syntax match goNiceOperator "=\@<!===\@!" conceal cchar=≡
 syntax match goNiceOperator "!=" conceal cchar=≢
 
 syntax match goNiceKeyword "func" conceal cchar=λ
