@@ -19,3 +19,6 @@ Add to your list of plugins:
     $ git clone git@github.com:Coornail/vim-go-conceal.git
     $ mkdir -p ~/.vim/after/syntax
     $ cp ./vim-go-conceal/after/syntax/go.vim ~/.vim/after/syntax/
+
+# License
+[MIT](https://raw.githubusercontent.com/Coornail/vim-go-conceal/master/LICENSE)
