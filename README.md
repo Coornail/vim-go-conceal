@@ -6,12 +6,12 @@ Vim >= 7.3 (for the conceal feature)
 
 ## Installation
 
-### Plug
+### [Plug](https://github.com/junegunn/vim-plug)
 Add to your list of plugins:
 
     Plug 'Coornail/vim-go-conceal'
 
-### Vundle
+### [Vundle](https://github.com/gmarik/Vundle.vim)
 
     Plugin 'Coornail/vim-go-conceal'
 
